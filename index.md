@@ -21,7 +21,7 @@ Look forward to seeing you all next time!
 
 We invite submissions to the 8th iteration of the Games, Agents and Incentives Workshop, co-located with AAMAS 2026 in Paphos, Cyprus.
 
-Games, Agents and Incentives is a confederated workshop which focuses (obviously…) on agents and incentives in AI.  In particular on game theory (cooperative and non-cooperative), social choice, and agent-mediated e-commerce aspects of AI systems. The confederated workshop merges multiple workshops that have been associated with AAMAS in the past, which considered different aspects of the general interplay between AI and economics:
+Games, Agents and Incentives is a confederated workshop which focuses (obviously…) on agents and incentives in AI. In particular on game theory (cooperative and non-cooperative), social choice, and agent-mediated e-commerce aspects of AI systems. The confederated workshop merges multiple workshops that have been associated with AAMAS in the past, which considered different aspects of the general interplay between AI and economics:
 * CoopMAS: Cooperative Games in Multi-agent Systems
 * AMEC:  Agent-Mediated Electronic Commerce
 * EXPLORE: Exploring Beyond the Worst Case in Computational Social Choice
@@ -54,12 +54,12 @@ Over the past two decades, the focus of agent incentives in centralised and dece
 
 ## About GAIW
 
-The focus on incentives in AI at AAMAS can be judged from the significant proportion of technical program sessions which deal with them: “economic paradigms”; “mathematical social sciences”; “auctions and markets”; “non-cooperative games”; “cooperative games”; “social choice” and others. The goal of the workshop is to provide a forum to present the latest research, including more preliminary research that can benefit from further discussion and feedback.
+The focus on games, agents, and incentives in AI venues (including AAMAS, AAAI, & IJCAI) can be judged from the significant proportion of technical program sessions which deal with “economic paradigms”; “mathematical social sciences”; “auctions and markets”; “non-cooperative games”; “cooperative games”; “social choice”. One goal of the workshop is to provide a forum to present the latest research, including research that can benefit from further discussion and feedback. The workshop’s goal is to bring together researchers in the fields related to algorithmic mechanism design, computational social choice, and fair division while providing a platform for cross-fertilization of ideas between junior and senior researchers in these fields. 
 
-The workshop fits very well with the type of research valued by the AAMAS communities. For example, in the last 20 years, 6 out of the 12 winners of the IJCAI Computer and Thought Award worked on topics in the intersection of AI and economics/AGT: specifically, Sarit Kraus (1995), Nicholas Jennings (1999), Tuomas Sandholm (2003), Peter Stone (2007), Carlos Guestrin (2009), Vincent Conitzer (2011), Ariel Procaccia (2015), and Piotr Skowron (2020). Similarly, 8 of the 11 awardees of the Victor Lesser IFAAMAS Distinguished Dissertation Award work on topics at the intersection of AI and Economics: Vincent Conitzer (2006), Radu Jurca (2007),  Ariel Procaccia (2008), Andrew Gilpin (2009), Bo An (2010), Manish Jain (2013), Yair Zick (2014), and Nisarg Shah (2016).
+The workshop fits the type of research valued by the AI and agents communities. In the last 30 years, 9 of the 22 winners of the IJCAI Computer and Thought Award worked on topics in the intersection of AI and economics/agents: specifically, Sarit Kraus (1995), Nicholas Jennings (1999), Tuomas Sandholm (2003), Peter Stone (2007), Carlos Guestrin (2009), Vincent Conitzer (2011), Ariel Procaccia (2015), and Piotr Skowron (2020), Nisarg Shah (2024). Similarly, 12 of the 18 awardees of the Victor Lesser IFAAMAS Distinguished Dissertation Award work on topics in this strategic intersection: Vincent Conitzer (2006), Radu Jurca (2007), Ariel Procaccia (2008), Andrew Gilpin (2009), Bo An (2010), Manish Jain (2013), Yair Zick (2014), Nisarg Shah (2016), and Dominik Peters (2020) (we note that Dr. Haifeng Xu was a runner-up for the award in 2019), Noam Brown (2020), Bryan Wilder (2021), and Niclas Boehmer (2023).
 
-Papers will be invited under the following topics:
-
+## Papers will be invited under the following topics:
+* Agentic AI systems
 * Algorithmic mechanism design
 * Auctions
 * Behavioral Game Theory
@@ -80,6 +80,7 @@ Papers will be invited under the following topics:
 * Learning in games (e.g., solution concepts and equilibria)
 * Matching and Matching Markets
 * Negotiation
+* Preference aggregation and reasoning
 * Price differentiation and price dynamics
 * Social networks
 * Trading agent design and analysis 
