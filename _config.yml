@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: 7th Games, Agents, and Incentives Workshop
+title: 8th Games, Agents, and Incentives Workshop
 
 # Short description of your site
-description: GAIW@AAMAS 2025
+description: GAIW@AAMAS 2026
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,7 +20,7 @@ description: GAIW@AAMAS 2025
 
 # List of links in the navigation bar
 navbar-links:
-  Welcome to GAIW 2025: "index"
+  Welcome to GAIW 2026: "index"
   Submission: "submission"
   Program: "program"
   Organization: "organization"
@@ -64,7 +64,7 @@ footer-link-col: "#FFFFFF"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: GAIW 2025 Team
+  name: GAIW 2026 Team
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -97,7 +97,7 @@ author:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "preflib.github.io/gaiw2025/"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "https://gtep-workshops.github.io/gaiw2026/"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
