@@ -29,15 +29,15 @@ Games, Agents and Incentives is a confederated workshop which focuses (obviously
 Over the past two decades, the focus of agent incentives in centralised and decentralised AI systems has increased dramatically. These issues come up when designing preference aggregation mechanisms and markets; computing equilibria and bidding strategies; facilitating cooperation among agents; and fairly dividing resources.
 
 ## Important Dates
-* Submission Deadline: February 4, 2025 (AoE) ([Link](https://openreview.net/group?id=ifaamas.org/AAMAS/2026/Workshop/GAIW))
-* Acceptance Notification: March 20, 2025
+* Submission Deadline: February 4, 2026 (AoE) ([Link](https://openreview.net/group?id=ifaamas.org/AAMAS/2026/Workshop/GAIW))
+* Acceptance Notification: March 20, 2026
 * Camera Ready: TBD (AoE)
 * AAMAS Conference: May 25 - May 29, 2026
 * GAIW Workshop: May 26, 2026
 
 
 ## Important Links:
-* [GAIW 2025 Submission Link](https://openreview.net/group?id=ifaamas.org/AAMAS/2026/Workshop/GAIW)
+* [GAIW 2026 Submission Link](https://openreview.net/group?id=ifaamas.org/AAMAS/2026/Workshop/GAIW)
 * [AAMAS 2026 Conference Website](https://cyprusconferences.org/aamas2026/)
 * [7th GAIW Website (2025)](https://preflib.github.io/gaiw2025/)
 * [6th GAIW Website (2024)](https://preflib.github.io/gaiw2024/)
