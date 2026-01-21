@@ -13,7 +13,7 @@ published: true
 
 
 ## Submission Details
-*Submission Link:* Authors should submit full papers electronically in PDF format. Please submit all papers through the OpenReview [Submission Link]().
+*Submission Link:* Authors should submit full papers electronically in PDF format. Please submit all papers through the OpenReview [Submission Link](https://openreview.net/group?id=ifaamas.org/AAMAS/2026/Workshop/GAIW).
 
 *Formatting Guidelines:* Please format papers according to the AAMAS 2026 format ([Details Link](https://cyprusconferences.org/aamas2026/submission-instructions/)).
 
