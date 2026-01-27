@@ -15,16 +15,41 @@ published: true
 ## Submission Details
 *Submission Link:* Authors should submit full papers electronically in PDF format. Please submit all papers through the OpenReview [Submission Link](https://openreview.net/group?id=ifaamas.org/AAMAS/2026/Workshop/GAIW).
 
-*Formatting Guidelines:* Please format papers according to the AAMAS 2026 format ([Details Link](https://cyprusconferences.org/aamas2026/submission-instructions/)).
+*Formatting Guidelines:* Please format papers according to the AAMAS 2026 format ([Details Link](https://cyprusconferences.org/aamas2026/submission-instructions/)) with the following changes.
 
-If you are using the AAMAS format from the website please use the following command before the `\title` command:
+1. **NEW for 2026**: Papers are required to include a *structured abstract*. Use the following structure for your abstract. You will also provide this information on the submission page in OpenReview.
+
+```
+\begin{abstract}
+%  (ideally 1-3 sentences per section)
+% Maximum of 500 characters per section for a total of less than 2500 characters.
+
+\noindent\textbf{Background:} 
+% Briefly describe the motivation for the presented work. The background should explain why the problem studied by the paper is worth attention.
+
+\noindent\textbf{Objectives and Research Questions:} 
+% Briefly discuss what specific questions around the described problem are being addressed by this work.
+
+\noindent\textbf{Methods:} 
+% Briefly describe the research methodology used in the paper: what kinds of theoretical results, simulation procedures, etc.
+
+\noindent\textbf{Results:} 
+% How have the methods informed about the described objectives?
+
+\noindent\textbf{Conclusions:}
+% Briefly describe at a high level what can be taken from this paper.
+
+\end{abstract}
+```
+
+2. Please replace the copyright block before the `\title` command with the following:
 
 ```
 \setcopyright{rightsretained}
 \acmConference[GAIW'26]{Appears at the 8th Games, Agents, and Incentives Workshop (GAIW-26). Held as part of the Workshops at the 25th International Conference on Autonomous Agents and Multiagent Systems.}{May 2026}{Paphos, Cyprus}{Armstrong, Curry, Hosseini, Mattei, Tsang, Wąs (Chairs)} 
 ```
 
-and please remove (or comment out) the following command:
+3. If using a version of the AAMAS format which contains it please remove (or comment out) the following command:
 
 ```
 \makeatletter
@@ -50,6 +75,6 @@ and please remove (or comment out) the following command:
 
 *Past Submissions:* In order to strike a balance between new work and work that may have been presented but not widely seen we ask that if authors want to submit published work they do so non-anonymously and clearly indicate when and where the work was published. We will only accept work which has been published in the last calendar year (e.g., IJCAI 2025, NeurIPS 2025, AAAI 2026, and any conference held strictly after Jan 1, 2025).
 
-*Best Presentation Award:* The organizing committee of GAIW will be giving two awards (first-place and runner up) for best paper presentations. The award criteria include the clarity of presentation, the level of engagement, the content, and discussion handline.
+*Best Presentation Award:* The organizing committee of GAIW will be giving two awards (first-place and runner up) for best paper presentations. The award criteria include the clarity of presentation, the level of engagement, the content, and discussion handling.
 
 *Inquiries:* If you have any questions, direct them to alan.tsang@carleton.ca
