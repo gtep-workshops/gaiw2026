@@ -15,6 +15,8 @@ published: true
 ## Submission Details
 *Submission Link:* Authors should submit full papers electronically in PDF format. Please submit all papers through the OpenReview [Submission Link](https://openreview.net/group?id=ifaamas.org/AAMAS/2026/Workshop/GAIW).
 
+This year we are testing a new review structure. Papers will receive standard reviews as usual and will additionally receive several "micro-reviews" which consider the paper summary provided in the structured abstract. As a result, review information will be public after the review period is complete.
+
 *Formatting Guidelines:* Please format papers according to the AAMAS 2026 format ([Details Link](https://cyprusconferences.org/aamas2026/submission-instructions/)) with the following changes.
 
 1. **NEW for 2026**: Papers are required to include a *structured abstract*. Use the following structure for your abstract. You will also provide this information on the submission page in OpenReview.
