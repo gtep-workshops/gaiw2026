@@ -5,7 +5,7 @@ published: true
 ---
 
 ## Important Dates
-* Submission Deadline: February 4, 2025 (AoE)([Link]())
+* Submission Deadline: ~~February 4, 2026~~ **Extended to Feb. 11, 2026** (AoE) ([Link](https://openreview.net/group?id=ifaamas.org/AAMAS/2026/Workshop/GAIW))
 * Acceptance Notification: March 20, 2025
 * Camera Ready: TBD (AoE)
 * AAMAS Conference: May 25 - May 29, 2026
@@ -67,7 +67,7 @@ This year we are testing a new review structure. Papers will receive standard re
     \makeatother
     ```
 
-*Paper Length:* Papers can be at most 8 pages long in AAMAS format. Additional pages for may be used for references. Supplemental material can be appended at the end of the paper. However, reviewers are instructed to make their evaluations based on the main submission, and are not obligated to consult the supplemental material.
+*Paper Length:* Papers can be at most 8 pages long in AAMAS format. Additional pages for may be used for references. **Supplemental material can be appended at the end of the paper. However, reviewers are instructed to make their evaluations based on the main submission, and are not obligated to consult the supplemental material.**
 
 *Multiple Submission:* To widen participation and encourage discussion, there will be no formal publication of workshop proceedings. We will, however, post the accepted papers online to the benefit of the participants to the workshop. Therefore, submission of preliminary work and papers to be submitted or in preparation for submission to other major venues in the field are encouraged.
 
