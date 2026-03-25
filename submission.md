@@ -48,7 +48,8 @@ This year we are testing a new review structure. Papers will receive standard re
 
     ```
     \setcopyright{rightsretained}
-    \acmConference[GAIW'26]{Appears at the 8th Games, Agents, and Incentives Workshop (GAIW-26). Held as part of the Workshops at the 25th International Conference on Autonomous Agents and Multiagent Systems.}{May 2026}{Paphos, Cyprus}{Armstrong, Curry, Hosseini, Mattei, Tsang, Wąs (Chairs)} 
+    \acmConference[GAIW'26]{Appears at the 8th Games, Agents, and Incentives Workshop (GAIW-26). Held as part of the Workshops at the 25th International Conference on Autonomous Agents and Multiagent Systems.}{May 2026}{Paphos, Cyprus}{Armstrong, Curry, Hosseini, Mattei, Tsang, Wąs (Chairs)}
+    \acmISBN{}
     ```
 
 3. If using a version of the AAMAS format which contains it please remove (or comment out) the following command:
