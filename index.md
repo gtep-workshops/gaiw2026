@@ -31,7 +31,7 @@ Over the past two decades, the focus of agent incentives in centralised and dece
 ## Important Dates
 * Submission Deadline: ~~February 4, 2026~~ **Extended to Feb. 11, 2026** (AoE) ([Link](https://openreview.net/group?id=ifaamas.org/AAMAS/2026/Workshop/GAIW))
 * Acceptance Notification: March 20, 2026
-* Camera Ready: TBD (AoE)
+* Camera Ready: April 17, 2026
 * AAMAS Conference: May 25 - May 29, 2026
 * GAIW Workshop: May 26, 2026
 
