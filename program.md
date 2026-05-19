@@ -10,7 +10,7 @@ The 8th Games, Agents, and Incentives workshop will be held at AAMAS 2026.
 
 |   **Time**  |         **Session**         |              **Topic**             |    **Structure**   |
 |:-----------:|:---------------------------:|:----------------------------------:|:------------------:|
-| 8:45-9:30   | Keynote - Piotr Faliszewski |                                    |                    |
+| 8:45-9:30   | Keynote - Piotr Faliszewski | Algorithms for Generating (Interesting) Elections |                    |
 | 9:30-10:15  | Session 1 - Talks           | ML, RL, LLMs, Agent-Based Modeling | 5x Short + 1x Long |
 | 10:15-11:00 | Coffee Break                | Coffee + Poster Session            |                    |
 | 11:00-11:30 | Session 2 - Talks           | Game Theory                        | 5x Short           |
@@ -22,11 +22,19 @@ The 8th Games, Agents, and Incentives workshop will be held at AAMAS 2026.
 | 16:15-17:00 | Session 5                   | Voting                             | 6x Short + 1x Long |
 | 17:00-17:45 | Poster Session              |                                    |                    |
 
+
+## Keynote - Algorithms for Generating (Interesting) Elections
+
+Speaker: Piotr Faliszewski
+
+Abstract: In this talk I will present a research program whose goal is to develop methods for generating useful preference data (or, in other words, elections). Currently, researchers have two options when looking for data. Either they can use very simplistic statistical cultures, such as impartial culture, Polya-Eggenberger urn model, or the Mallows model, or they can use real-life data. The problem with using the former is that basic models "obviously" do not lead to realistic data. The problem with the latter approach is that we have very limited control over such data (in terms of, e.g., choosing the number of candidates and voters) and, worse yet, real-life data is not as real as we would like. By that I mean that it rarely truly comes exactly from the setting that we want to consider (think of using election from a political election carried out using STV to model a small-scale election in an institution, using Borda rule). In this research program I propose two main tasks: First, we should develop our understanding of data, by designing a broad family of so-called "election indices". An election index is a function that returns a value in the range between 0 and 1, indicating to what extent an election has a certain feature (such as, e.g., being polarized). The second task regards algorithms for generating elections with given features. While one approach is to try to make these generating elections realistic--e.g., by developing and learning more advanced statistical cultures---it suffices to make them "interesting": For example, if we are interested in evaluating a running time of an algorithm, we might want data on which it is slow. If we are interested in elections that appear in particular real-life settings, we might want data with the same values of election indices as the elections that arise there.
+
+
 ## Detailed Schedule
 
 |   **Time**  |                                                   **Title**                                                   |                                        **Authors**                                        |                                  **PDF**                                 |
 |:-----------:|:-------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:------------------------------------------------------------------------:|
-| 8:45-9:30   | _Invited Talk - Piotr Faliszewski_                                                                            |                                                                                           |                                                                          |
+| 8:45-9:30   | _Invited Talk - Piotr Faliszewski_                                                                            | Algorithms for Generating (Interesting) Elections                                        |                                                                          |
 |             | **Session 1: ML, RL, LLMs, Agent-Based Modeling**                                                             |                                                                                           |                                                                          |
 | 9:30-9:45   | From Competition to Collaboration: Designing Sustainable Mechanisms Between LLMs and Online Forums            | Yftah Ziser, Omer Ben-Porat, Niv Fono                                                     | <a href="https://gtep-workshops.github.io/gaiw2026/pdf/13.pdf"> PDF </a> |
 | 9:45-9:50   | Deep Incentive Design with Differentiable Equilibrium Blocks                                                  | Luke Marris, Georgios Piliouras, Vinzenz Thoma                                            | <a href="https://gtep-workshops.github.io/gaiw2026/pdf/5.pdf"> PDF </a>  |
