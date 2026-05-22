@@ -4,7 +4,7 @@ title: Program
 published: true
 ---
 
-The 8th Games, Agents, and Incentives workshop will be held at AAMAS 2026.
+The 8th Games, Agents, and Incentives workshop will be held at AAMAS 2026 in the room **Akamas B**.
 
 ## Overview
 
