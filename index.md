@@ -16,6 +16,8 @@ The full program and all papers will remain available on the [Program](https://p
 Look forward to seeing you all next time!
 -->
 
+<p style="text-align:center;"><img src="{{ 'img/group.jpg' | relative_url }}" /></p>
+
 
 ## About the Games, Agents, and Incentives Workshop
 
